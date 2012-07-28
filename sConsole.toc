@@ -1,0 +1,16 @@
+## Interface: 40200
+## Title: ShareConsole
+## Notes: console
+## Author: Share
+## Version: 0.1 beta
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+
+
+config.lua
+sConsole.lua
+
+modules\sLoad.lua
+modules\sInvite.lua
+modules\sZoneFrame.lua
+modules\sChatFrame.lua

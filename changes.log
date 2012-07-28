@@ -1,0 +1,7 @@
+v0.5 beta
+- Ready for 3.3.5
+
+v0.4 beta
+- Renamed a few variables.
+- BUGFIX: Applaying/right-clicking TempEnchants (like Rogue poisons) no longer breaks the BuffFrame anchor.
+- BUGFIX: Closing the fullscreen WorldMap with an activ GM_Ticket no longer breaks the BuffFrame anchor.
